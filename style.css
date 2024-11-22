@@ -68,7 +68,7 @@ p {
 @media screen and (min-width: 1000px) {
   body {
     display: flex;
-    flex-direction: rows;
+    flex-direction: row;
   }
   p {
     padding-bottom: 50px;
